@@ -65,7 +65,7 @@ p {
 }
 .recepie-title {
 	display: flex;
-	margin-bottom: 130px;
+	margin-bottom: 100px;
 }
 .title {
 	width: 25%;
@@ -79,7 +79,7 @@ p {
 .popular {
 	width: 80%;
 	margin-left: 80px;
-	margin-bottom: 60px;
+	margin-bottom: 80px;
 }
 .popular img {
 	display: block;

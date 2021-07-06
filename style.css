@@ -1,13 +1,15 @@
 body {
 	font-family: 'Poppins', sans-serif;
+	margin: 0px;
 }
 h1 {
-	color: black;
+	color: rgba(0, 0, 0, 0.747);
 	font-size: 50px;
 	font-weight: 800px;
 	line-height: 20px;
 }
 h2 {
+	color: rgba(0, 0, 0, 0.747);
 	font-size: 30px;
 }
 span {
@@ -56,17 +58,34 @@ p {
 }
 .title {
 	width: 25%;
-	box-shadow: 10px 10px 40px gray;
+	box-shadow: 10px 10px 30px gray;
 	margin-left: 4%;
 	padding: 20px 20px 0px 20px;
 }
 .title img {
 	width: 100%;
 }
+.subscriber {
+	display: flex;
+	box-shadow: 10px 10px 50px gray;
+	border-radius: 30px;
+	width: 90%;
+	margin-left: 5%;
+}
+.subscriber .million {
+	width: 100%;
+	padding: 40px 0px 0px 100px;
+}
+.color {
+	color: black;
+	font-size: 50px;
+	font-weight: 900;
+}
 footer {
 	background-color: black;
 	text-align: center;
-	padding: 25px;
+	margin: 0px;
+	padding: 20px;
 }
 #footer {
 	color: white;

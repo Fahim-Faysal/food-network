@@ -12,6 +12,11 @@ h2 {
 	color: rgba(0, 0, 0, 0.747);
 	font-size: 30px;
 }
+h4 {
+	font-size: 40px;
+	margin-top: 150px;
+	margin-left: 120px;
+}
 span {
 	color: orange;
 }
@@ -67,6 +72,20 @@ p {
 .title img {
 	width: 100%;
 }
+.popular {
+	width: 80%;
+	margin-left: 80px;
+	margin-bottom: 60px;
+}
+.popular img {
+	display: block;
+	margin-top: 50px;
+	width: 30%;
+}
+.inline {
+	display: flex;
+}
+
 .subscriber {
 	display: flex;
 	box-shadow: 10px 10px 40px gray;
